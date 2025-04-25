@@ -13,6 +13,7 @@ More changes from cloning.
 |                                                    | Camoy Phillips | ![Camoy Phillips](images/camoyphillips.jpg)Profile                                             |
 | 
 -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![jashanfzk](images/[pakke_coder.jpg]) | Jashan Singh | [Jashan Singh](students/Jashanpreet.markdown) |
 
 
 ### Faculty
